@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tuy:home|Door43 (tuy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tuy|d43-tuy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tuy/archive/master.zip|d43-tuy.zip]]
+
+**Recent Changes**
+{{changes>ns = tuy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tuy|Ethnologue data]]
+
